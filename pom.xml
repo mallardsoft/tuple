@@ -11,6 +11,9 @@
     <name>tuple</name>
     <description>Type-safe tuples.</description>
 
+    <scm>
+    	<url>git://github.com/mallardsoft/tuple.git</url>
+    </scm>
     <organization>
         <name>Mallardsoft</name>
         <url>http://mallardsoft.com/</url>
